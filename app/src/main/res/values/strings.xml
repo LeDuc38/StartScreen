@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">StartScreen</string>
+    <string name="appname">English Test</string>
+    <string name="button_play">play</string>
+    <string name="button_help">help</string>
+    <string name="button_highscores">hight scores</string>
+    <string name="button_options">options</string>
+    <string name="textview_highscore">   100</string>
+</resources>

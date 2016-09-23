@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android" >
+    <gradient  android:startColor="#ff0800"
+        android:centerColor="#3cec19"
+        android:endColor="#ffff00"
+        android:angle="270"
+        />
+    <padding android:left="16dp"
+        android:top="16dp"
+        android:right="16dp"
+        android:bottom="16dp"/>
+
+    <stroke android:color="#000"
+        android:width="2dp" />              <!-- Màu và độ rộng của viền -->
+
+    <corners android:radius="200dp"/>         <!-- Thiết lập góc cạnh của nút -->
+
+</shape>
